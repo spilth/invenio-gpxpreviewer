@@ -32,3 +32,7 @@ recursive-include docs *.txt
 recursive-include docs Makefile
 recursive-include invenio_gpxpreviewer *.html
 recursive-include tests *.py
+
+# added by check-manifest
+recursive-include invenio_gpxpreviewer *.css
+recursive-include invenio_gpxpreviewer *.js
